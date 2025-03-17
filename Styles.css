@@ -1,0 +1,188 @@
+BODY {
+	BACKGROUND: #ffffff; COLOR: #000088; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;	
+}
+.Header {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999999 0px solid; MARGIN-TOP: 0px; 
+	PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; MARGIN-LEFT: 135px; BORDER-LEFT: #999999 0px solid; 
+	COLOR: #000088; PADDING-TOP: 4px; BORDER-BOTTOM: #999999 1px solid; LETTER-SPACING: 1px; 
+	BACKGROUND-COLOR: #ebf5fa
+}
+.Header H1 {
+	MARGIN: 0px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+.Navigation {
+	LEFT: 5px; WIDTH: 126px; LINE-HEIGHT: 110%; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	POSITION: absolute; TOP: 0px
+}
+.Content {
+	background-image: url(img/fond.jpg); background-repeat: no-repeat; 
+	background-position: top; background-color: #ffffff;
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN-LEFT: 135px; 
+	COLOR: #000088; PADDING-TOP: 3px; FONT-FAMILY: Verdana, Eyechart, Geneva, Arial, Helvetica, sans-serif
+}
+.box {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999999 0px solid; 
+	PADDING-LEFT: 4px; FONT-SIZE: 11px; BACKGROUND: #dfeff7; PADDING-BOTTOM: 4px; MARGIN: 2px; 
+	BORDER-LEFT: #999999 0px solid; COLOR: #000099; LINE-HEIGHT: 16px; PADDING-TOP: 4px; 
+	BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana, Arial, Tahoma, Helvetica, sans-serif; 
+	TEXT-ALIGN: center
+}
+.navbox {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999999 0px solid; PADDING-LEFT: 2px; FONT-WEIGHT: 500; FONT-SIZE: 14px; PADDING-BOTTOM: 2px; MARGIN: 2px 1px; BORDER-LEFT: #999999 0px solid; WIDTH: 105px; COLOR: #000088; LINE-HEIGHT: 16px; PADDING-TOP: 2px; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana, Arial, Tahoma, Helvetica, sans-serif; BACKGROUND-COLOR: #f5f5f5
+}
+.navbox2 {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #999999 0px solid; PADDING-LEFT: 2px; FONT-WEIGHT: 500; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 2px 2px 2px 16px; BORDER-LEFT: #999999 0px solid; WIDTH: 90px; COLOR: #000088; LINE-HEIGHT: 16px; PADDING-TOP: 0px; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: Verdana, Arial, Tahoma, Helvetica, sans-serif; BACKGROUND-COLOR: #f5f5f5
+}
+P {
+	FONT-SIZE: 0.8em
+}
+OL {
+	FONT-SIZE: 0.8em
+}
+UL {
+	FONT-SIZE: 0.8em
+}
+DL {
+	FONT-SIZE: 0.8em
+}
+TD {
+	FONT-SIZE: 0.8em
+}
+H1 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+H2 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+H3 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+H4 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+H5 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+H6 {
+	MARGIN-BOTTOM: 4px; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; text-shadow: #B0C4DE 2px 2px 1px
+}
+OL {
+	LINE-HEIGHT: 1.1em; LIST-STYLE-TYPE: lower-alpha
+}
+OL UL {
+	FONT-SIZE: 1em; LINE-HEIGHT: 1.1em; LIST-STYLE-TYPE: decimal
+}
+.tagline {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #708090; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; LETTER-SPACING: 3px
+}
+.six {
+	FONT-SIZE: 11px; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #999999
+}
+.mit {
+	TEXT-ALIGN: justify
+}
+.red {
+	BACKGROUND: #ffffff; COLOR: #ff0000
+}
+.biggie {
+	FONT-SIZE: 1em; LINE-HEIGHT: 1.4em
+}
+A:link {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #c71585; TEXT-DECORATION: underline
+}
+A:hover {
+	BACKGROUND: #ebf5fa; COLOR: #3499cc; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.nav {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 105px; COLOR: #006699; TEXT-DECORATION: none
+}
+A.nav:visited {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 105px; COLOR: #c71585; TEXT-DECORATION: none
+}
+A.nav:hover {
+	DISPLAY: block; BACKGROUND: #ebf5fa; WIDTH: 105px; COLOR: #708090; TEXT-DECORATION: none
+}
+A.navtot {
+	DISPLAY: block; FONT-WEIGHT: 600; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 105px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.nav2 {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 90px; COLOR: #006699; TEXT-DECORATION: none
+}
+A.nav2:visited {
+	DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 90px; COLOR: #c71585; TEXT-DECORATION: none
+}
+A.nav2:hover {
+	DISPLAY: block; BACKGROUND: #ebf5fa; WIDTH: 90px; COLOR: #708090; TEXT-DECORATION: none
+}
+A.navtot2 {
+	DISPLAY: block; FONT-WEIGHT: 600; BACKGROUND: none transparent scroll repeat 0% 0%; WIDTH: 90px; COLOR: #000000; TEXT-DECORATION: none
+}
+STRONG {
+	FONT-WEIGHT: 800
+}
+B {
+	FONT-WEIGHT: 800
+}
+BIG {
+	FONT-SIZE: larger
+}
+SMALL {
+	FONT-SIZE: smaller
+}
+.rrand {
+	PADDING-LEFT: 7px; FLOAT: right
+}
+.lrand {
+	PADDING-RIGHT: 7px; FLOAT: left
+}
+.outlinke {
+	FONT-SIZE: 11px; MARGIN: 0px 0px 0px -120px; COLOR: #c71585; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+PRE {
+	BORDER-RIGHT: #c71585 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #c71585 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 13px; PADDING-BOTTOM: 4px; BORDER-LEFT: #c71585 1px solid; COLOR: #000000; PADDING-TOP: 4px; BORDER-BOTTOM: #c71585 1px solid; FONT-FAMILY: "Courier New", Courier, monospace; WHITE-SPACE: pre; BACKGROUND-COLOR: #f7f7f7
+}
+.Kommentar {
+	FONT-SIZE: 12px; BACKGROUND: #f7f7f7; COLOR: #c71585; FONT-FAMILY: Verdana, Eyechart, Geneva, Arial, Helvetica, sans-serif
+}
+.texta1 {
+	BORDER-RIGHT: #c71585 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #c71585 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #c71585 1px solid; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #c71585 1px solid; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; BACKGROUND-COLOR: #3499cc
+}
+FORM {
+	BORDER-RIGHT: #3499cc 2px solid; PADDING-RIGHT: 3px; BORDER-TOP: #3499cc 2px solid; PADDING-LEFT: 3px; FONT-SIZE: 13px; BACKGROUND: #dfeff7; PADDING-BOTTOM: 3px; MARGIN-LEFT: 50px; BORDER-LEFT: #3499cc 2px solid; WIDTH: 400px; COLOR: #000080; PADDING-TOP: 3px; BORDER-BOTTOM: #3499cc 2px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	BORDER-RIGHT: #c71585 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #c71585 1px inset; PADDING-LEFT: 2px; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #c71585 1px inset; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #c71585 1px inset; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; BACKGROUND-COLOR: #3499cc
+}
+TEXTAREA {
+	BORDER-RIGHT: #c71585 1px inset; PADDING-RIGHT: 2px; BORDER-TOP: #c71585 1px inset; PADDING-LEFT: 2px; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #c71585 1px inset; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #c71585 1px inset; FONT-FAMILY: Georgia, "MS Serif", "New York", serif; BACKGROUND-COLOR: #3499cc
+}
+SELECT {
+	BORDER-RIGHT: #adff2f 1px outset; PADDING-RIGHT: 2px; BORDER-TOP: #adff2f 1px outset; PADDING-LEFT: 2px; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #adff2f 1px outset; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #adff2f 1px outset; FONT-FAMILY: "MS Serif", Georgia, "New York", serif; BACKGROUND-COLOR: #008080
+}
+OPTION {
+	BORDER-RIGHT: #adff2f 1px outset; PADDING-RIGHT: 2px; BORDER-TOP: #adff2f 1px outset; PADDING-LEFT: 2px; FONT-SIZE: 13px; PADDING-BOTTOM: 2px; BORDER-LEFT: #adff2f 1px outset; COLOR: #ffffff; PADDING-TOP: 2px; BORDER-BOTTOM: #adff2f 1px outset; FONT-FAMILY: "MS Serif", Georgia, "New York", serif; BACKGROUND-COLOR: #008080
+}
+.uno {
+	BACKGROUND: #ffff00; COLOR: #000000
+}
+.due {
+	BACKGROUND: #ff00ff
+}
+.tre {
+	BACKGROUND: #ff0000
+}
+.qua {
+	BACKGROUND: #00ff00
+}
+.oldbrowser {
+	DISPLAY: none
+}
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}

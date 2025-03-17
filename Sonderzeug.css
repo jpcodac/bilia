@@ -1,0 +1,18 @@
+.dshadow {
+	FILTER: dropshadow(color=#B0C4DE, OffX=1, OffY=1, positive=1); WIDTH: 100%
+}
+.linear {
+	FILTER: alpha(opacity=50, style=1, -moz-opacity="50%")
+}
+A.nav SPAN {
+	DISPLAY: none
+}
+A.nav:hover SPAN {
+	BORDER-RIGHT: #bbbbbb 1px solid; PADDING-RIGHT: 12px; BORDER-TOP: #bbbbbb 0px solid; DISPLAY: block; PADDING-LEFT: 12px; Z-INDEX: 100; BACKGROUND: #dfeff7; LEFT: 130px; PADDING-BOTTOM: 12px; FONT: 11px Verdana, Arial, sans-serif; BORDER-LEFT: #bbbbbb 0px solid; WIDTH: 220px; COLOR: #000099; PADDING-TOP: 12px; BORDER-BOTTOM: #bbbbbb 1px solid; POSITION: absolute; TOP: 135px
+}
+A.nav:hover SPAN.unten {
+	LEFT: 130px; POSITION: absolute; TOP: 175px
+}
+A.nav:hover SPAN.weiterunten {
+	LEFT: 130px; POSITION: absolute; TOP: 220px
+}
